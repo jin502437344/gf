@@ -1,22 +1,22 @@
-// Copyright 2019 gf Author(https://github.com/gogf/gf). All Rights Reserved.
+// Copyright 2019 gf Author(https://github.com/jin502437344/gf). All Rights Reserved.
 //
 // This Source Code Form is subject to the terms of the MIT License.
 // If a copy of the MIT was not distributed with this file,
-// You can obtain one at https://github.com/gogf/gf.
+// You can obtain one at https://github.com/jin502437344/gf.
 
 package gres
 
 import (
 	"fmt"
-	"github.com/gogf/gf/internal/intlog"
+	"github.com/jin502437344/gf/internal/intlog"
 	"os"
 	"path/filepath"
 	"strings"
 
-	"github.com/gogf/gf/os/gtime"
+	"github.com/jin502437344/gf/os/gtime"
 
-	"github.com/gogf/gf/container/gtree"
-	"github.com/gogf/gf/os/gfile"
+	"github.com/jin502437344/gf/container/gtree"
+	"github.com/jin502437344/gf/os/gfile"
 )
 
 type Resource struct {

@@ -5,10 +5,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/gogf/gf/os/gfile"
-	"github.com/gogf/gf/os/gfpool"
-	"github.com/gogf/gf/os/glog"
-	"github.com/gogf/gf/test/gtest"
+	"github.com/jin502437344/gf/os/gfile"
+	"github.com/jin502437344/gf/os/gfpool"
+	"github.com/jin502437344/gf/os/glog"
+	"github.com/jin502437344/gf/test/gtest"
 )
 
 // TestOpen test open file cache
